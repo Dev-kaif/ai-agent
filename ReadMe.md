@@ -1,7 +1,3 @@
-Here’s a professional and clear `README.md` for your AI Agent project:
-
----
-
 # 🤖 AI CLI Agent
 
 An intelligent CLI agent that takes a natural language task from the user, uses the Gemini API to generate a shell plan, executes the commands, creates files, writes runnable code, auto-fixes errors, and reruns until success — all autonomously.
